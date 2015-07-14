@@ -48,3 +48,4 @@ gem 'devise'
 
 #rails_admin
 gem 'rails_admin'
+
